@@ -1,2 +1,1 @@
-ITE)
-        pygame.display.
+pygame.init()
